@@ -44,7 +44,7 @@ Para ejecutar este proyecto, se requiere tener una cuenta de Google Cloud Platfo
 Este proyecto está bajo la licencia [Nombre de la Licencia]. Consulte el archivo LICENSE para obtener más detalles.
 
 ## Contacto
-Para preguntas o comentarios, comuníquese conmigo a través de f.soto.santibanez@gmail.com.
+Para preguntas o comentarios, comuníquese conmigo a través de f.soto.santibanez@gmail.com, o bien, visita mi espacio de [Medium](https://medium.com/@f.soto.santibanez) en el que he compartido mis aprendizajes y experiencia liderando este proyecto.
 
 
 
