@@ -1,4 +1,4 @@
-# Customer Data Platform (CDP) en BigQuery para América Solidaria Chile
+# Customer Data Platform (CDP) para América Solidaria Chile
 
 
 Este repositorio contiene el código y la documentación asociada con el proyecto de construcción de un Customer Data Platform (CDP) en BigQuery para América Solidaria.
