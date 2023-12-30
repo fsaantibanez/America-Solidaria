@@ -9,7 +9,7 @@ Este repositorio contiene el código y la documentación asociada con el proyect
 
 El propósito central de este proyecto consiste en centralizar y administrar eficaz y escalonadamente los datos asociados a sus socios. 
 
-Mediante la implementación de Google BigQuery como nuestra plataforma principal, hemos concebido un Customer Data Platform (CDP) que facilita la consolidación, análisis y visualización de información pertinente a nuestros donantes.
+Mediante la implementación de Google BigQuery como su plataforma principal, hemos concebido un Customer Data Platform (CDP) que facilita la consolidación, análisis y visualización de información pertinente a nuestros donantes.
 
 Con la consideración de la realidad financiera inherente a cualquier ONG, nos hemos propuesto desarrollar una solución de bajo costo. Con este fin, decidimos capitalizar las capacidades ofrecidas por servicios como BigQuery, Cloud Run y Cloud Functions de Google Cloud Platform (GCP). 
 
