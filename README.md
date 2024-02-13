@@ -21,7 +21,7 @@ Estas opciones, caracterizadas por su agilidad de desarrollo y el modelo de cost
 
 ## Características Principales
 
-![Elaboración propia](docs/mvp_modelo_datos.png)
+![Elaboración propia](docs/arquitectura_as)
 
 * **Almacenamiento Eficiente:** Utilizamos Google BigQuery para almacenar grandes cantidades de datos de manera eficiente, permitiendo un rápido acceso y consultas.
 
