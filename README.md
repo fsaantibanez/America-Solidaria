@@ -2,8 +2,6 @@
 
 
 Este repositorio contiene el código y la documentación asociada con el proyecto de construcción de un Customer Data Platform (CDP) en BigQuery para América Solidaria.
-![](docs/arquitectura_as)
-
 
 ## Descripción del Proyecto
 
